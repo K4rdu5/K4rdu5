@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @K4rdu5
-- 👀 I’m interested in Improvement, AI and Chemics
+- 👀 I’m interested in Improvement, AI and Chemistry
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ... I dont know really...
 - 📫 How to reach me lucasmjohansson@gmail.com
