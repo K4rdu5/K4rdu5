@@ -1,4 +1,4 @@
-I'm K4rdu5 a full time student at Chalmers University of Technology studying Chemical Engineering with Engineering Physics. 
+I'm K4rdu5 a student at Chalmers University of Technology studying Chemical Engineering with Engineering Physics. 
 
 With a newly found passion for "coding"/"programming" I'm digging deeper into the python language to create whatever projects that seem interesting or that can help me with assignments. If you want to reach out to me, send an email.
 
