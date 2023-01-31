@@ -2,7 +2,7 @@ I'm Lucas a student at Chalmers University of Technology studying Chemical Engin
 
 With a newly found passion for "coding"/"programming", I'm digging deeper into the python language to develop a deeper understanding and hone my skills to be able to make innovative and interesting programs. 
 
-My vision: Beeing able to create awesome projects that explore new areas of interest.
+My vision: Being able to create awesome projects that explore new areas of interest.
 
 If you want to reach out to me, send an email.
 
