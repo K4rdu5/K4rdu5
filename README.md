@@ -1,6 +1,6 @@
-I'm Lucas a student at Chalmers University of Technology studying Chemical Engineering with Engineering Physics. 
+I'm Lucas, a student at Chalmers University of Technology studying Chemical Engineering with Engineering Physics. 
 
-With a newly found passion for "coding"/"programming", I'm digging deeper into the python language to develop a deeper understanding and hone my skills to be able to make innovative and interesting programs. 
+With a passion for "coding"/"programming", I further explore the wonderful world of python to develop a deeper understanding and hone my skills to be able to make innovative and interesting programs. 
 
 My vision: Being able to create awesome projects that explore new areas of interest.
 
